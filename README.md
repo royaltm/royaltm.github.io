@@ -1,1 +1,1 @@
-(royaltm.github.io)[https://royaltm.github.io]
+[royaltm.github.io](https://royaltm.github.io)
