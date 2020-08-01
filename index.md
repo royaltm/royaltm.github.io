@@ -16,15 +16,6 @@
 * [fractx-wasm-demo](https://github.com/royaltm/rust-fractx-wasm-demo) - a [Mandelbrot](https://en.wikipedia.org/wiki/Mandelbrot_set) set WebAssembly [demo](https://yeondir.com/fractx-demo/) in Rust.
 * [plasma](https://github.com/royaltm/rust-plasma) - an eye-candy pixel plasma randomized generator - for the desktop and the web.
 
-[Ruby]
-------
-<a href="https://www.ruby-lang.org/"><img src="img/Ruby_logo.svg" alt="Ruby" height="32"></a>
-
-* [em-pg-client](https://github.com/royaltm/ruby-em-pg-client) - a PostgreSQL asynchronous [EventMachine] client (ruby-pg) wrapper.
-* [redis-em-mutex](https://github.com/royaltm/redis-em-mutex) - a cross server-process-fiber [EventMachine] + Redis based semaphore.
-* [z80-rb](https://github.com/royaltm/z80-rb) - a Z80 assembler DSL in ruby, a build system, a [ZX Spectrum] basic parser, and more.
-* [Stackless-Ruby](https://github.com/royaltm/Stackless-Ruby) - your recursive calls may no longer fear the wrath of the SystemStackError error!
-
 [Node.js]
 ---------
 <a href="https://nodejs.org/"><img src="img/Node.js_logo.svg" alt="Node.js" height="32"></a>
@@ -39,6 +30,15 @@
 <a href="http://www.cplusplus.com/"><img src="img/ISO_C++_Logo.svg" alt="JavaScript" height="32"></a>
 
 * [murmurhash-native](https://github.com/royaltm/node-murmurhash-native) - [MurmurHash] native bindings for node.
+
+[Ruby]
+------
+<a href="https://www.ruby-lang.org/"><img src="img/Ruby_logo.svg" alt="Ruby" height="32"></a>
+
+* [em-pg-client](https://github.com/royaltm/ruby-em-pg-client) - a PostgreSQL asynchronous [EventMachine] client (ruby-pg) wrapper.
+* [redis-em-mutex](https://github.com/royaltm/redis-em-mutex) - a cross server-process-fiber [EventMachine] + Redis based semaphore.
+* [z80-rb](https://github.com/royaltm/z80-rb) - a Z80 assembler DSL in ruby, a build system, a [ZX Spectrum] basic parser, and more.
+* [Stackless-Ruby](https://github.com/royaltm/Stackless-Ruby) - your recursive calls may no longer fear the wrath of the SystemStackError error!
 
 [Bash]
 ------
