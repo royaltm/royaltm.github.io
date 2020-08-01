@@ -3,8 +3,8 @@
 <a href="https://www.rust-lang.org/"><img src="img/rust-logo-blk.svg" alt="Rust" height="32"></a>
 
 * [z80emu](https://github.com/royaltm/rust-z80emu) - a minimalistic [Z80] Cpu emulation library in Rust.
-* [ym-file-parser](https://github.com/royaltm/rust-ym-file-parser) - a Rust library for parsing the [AY/YM chiptune](/rust-ym-file-parser) format files.
 * [delharc](https://github.com/royaltm/rust-delharc) - a Rust library for parsing and decoding LHA/LZH archives.
+* [ym-file-parser](https://github.com/royaltm/rust-ym-file-parser) - a Rust library for parsing the [AY/YM chiptune](/rust-ym-file-parser) format files.
 
 [Rust] / [WebAssembly]
 ----------------------
@@ -52,7 +52,7 @@
 -------
 <a href="https://en.wikipedia.org/wiki/Amiga"><img src="img/Amiga-Logo-1985.svg" alt="Amiga" height="32"></a>
 
-* [midiIn](https://github.com/royaltm/Amiga-midiIn) - a MIDI-controlled sample [player](https://aminet.net/package/mus/midi/midiIn32) for AMIGA, written in 1996-99.
+* [midiIn](https://github.com/royaltm/Amiga-midiIn) - a MIDI-controlled sample [player](https://aminet.net/package/mus/midi/midiIn32) for AMIGA, written between 1996-99.
 
 [ZX Spectrum]
 -------------
