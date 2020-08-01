@@ -23,7 +23,7 @@
 
 * [zmq-raft](https://github.com/royaltm/node-zmq-raft) - an opinionated [Raft](https://en.wikipedia.org/wiki/Raft_(computer_science)) implementation powered by [ØMQ](https://zeromq.org/).
 * [streamdb](https://github.com/royaltm/node-streamdb) - a log based in-memory document database.
-* [kafka-tools](https://github.com/royaltm/kafka-tools) - nice and easy kafka management tools.
+* [kafka-tools](https://github.com/royaltm/kafka-tools) - nice and easy [Apache Kafka®](https://kafka.apache.org/) management tools.
 * [inspect-protobuf](https://github.com/royaltm/inspect-protobuf) - inspect protobuf messages or convert to JSON, best served with [kafkacat](https://github.com/edenhill/kafkacat).
 * [unique-filter](https://github.com/royaltm/node-unique-filter) - a filesystem-based exact unique filter with predictable maximum memory usage.
 
