@@ -65,7 +65,7 @@
 [Amiga]: https://en.wikipedia.org/wiki/Amiga
 [Bash]: https://www.gnu.org/software/bash/
 [EventMachine]: https://github.com/eventmachine/eventmachine
-[MurmurHash]: https://en.wikipedia.org/wiki/MurmurHash)
+[MurmurHash]: https://en.wikipedia.org/wiki/MurmurHash
 [Node.js]: https://nodejs.org/
 [Ruby]: https://www.ruby-lang.org/
 [Rust]: https://www.rust-lang.org/
