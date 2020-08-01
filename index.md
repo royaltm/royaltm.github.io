@@ -2,7 +2,7 @@
 ------
 <a href="https://www.rust-lang.org/"><img src="img/rust-logo-blk.svg" alt="Rust" height="32"></a>
 
-* [z80emu](https://github.com/royaltm/rust-z80emu) - a minimalistic [Z80] Cpu emulation library in Rust.
+* [z80emu](https://github.com/royaltm/rust-z80emu) - a minimalistic [Z80 CPU] emulation library in Rust.
 * [delharc](https://github.com/royaltm/rust-delharc) - a Rust library for parsing and decoding [LHA/LZH](https://en.wikipedia.org/wiki/LHA_(file_format)) archives.
 * [ym-file-parser](https://github.com/royaltm/rust-ym-file-parser) - a Rust library for parsing the [AY/YM chiptune](/rust-ym-file-parser) format files.
 
@@ -24,8 +24,8 @@
 * [zmq-raft](https://github.com/royaltm/node-zmq-raft) - an opinionated [Raft](https://en.wikipedia.org/wiki/Raft_(computer_science)) implementation powered by [ØMQ](https://zeromq.org/).
 * [streamdb](https://github.com/royaltm/node-streamdb) - a log based in-memory document database.
 * [kafka-tools](https://github.com/royaltm/kafka-tools) - nice and easy kafka management tools.
-* [inspect-protobuf](https://github.com/royaltm/inspect-protobuf) - inspect protobuf messages or convert to json, best served with kafkacat.
-* [unique-filter](https://github.com/royaltm/node-unique-filter) - a filesystem based exact unique filter with predictable maximum memory usage.
+* [inspect-protobuf](https://github.com/royaltm/inspect-protobuf) - inspect protobuf messages or convert to JSON, best served with [kafkacat](https://github.com/edenhill/kafkacat).
+* [unique-filter](https://github.com/royaltm/node-unique-filter) - a filesystem-based exact unique filter with predictable maximum memory usage.
 
 <a href="http://www.cplusplus.com/"><img src="img/ISO_C++_Logo.svg" alt="JavaScript" height="32"></a>
 
@@ -38,7 +38,7 @@
 
 * [em-pg-client](https://github.com/royaltm/ruby-em-pg-client) - a PostgreSQL asynchronous [EventMachine] client (ruby-pg) wrapper.
 * [redis-em-mutex](https://github.com/royaltm/redis-em-mutex) - a cross server-process-fiber [EventMachine] + Redis based semaphore.
-* [z80-rb](https://github.com/royaltm/z80-rb) - a Z80 assembler DSL in ruby, a build system, a [ZX Spectrum] basic parser, and more.
+* [z80-rb](https://github.com/royaltm/z80-rb) - a Z80 assembler DSL in Ruby, a build system, a [ZX Spectrum] basic parser, and more.
 * [Stackless-Ruby](https://github.com/royaltm/Stackless-Ruby) - your recursive calls may no longer fear the wrath of the SystemStackError error!
 
 [Bash]
@@ -72,4 +72,4 @@
 [Rust]: https://www.rust-lang.org/
 [WebAssembly]: https://webassembly.org/
 [ZX Spectrum]: https://en.wikipedia.org/wiki/ZX_Spectrum
-[Z80]: https://en.wikipedia.org/wiki/Zilog_Z80
+[Z80 CPU]: https://en.wikipedia.org/wiki/Zilog_Z80
