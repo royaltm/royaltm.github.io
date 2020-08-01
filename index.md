@@ -29,7 +29,8 @@
 
 <a href="http://www.cplusplus.com/"><img src="img/ISO_C++_Logo.svg" alt="JavaScript" height="32"></a>
 
-* [murmurhash-native](https://github.com/royaltm/node-murmurhash-native) - [MurmurHash] native bindings for node.
+* [murmurhash-native](https://github.com/royaltm/node-murmurhash-native) - [MurmurHash] native bindings for [Node.js].
+* [ip2location](https://github.com/advertine/node-ip2location) - a native [IP2Location](https://www.ip2location.com/) library for [Node.js].
 
 [Ruby]
 ------
