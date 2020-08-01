@@ -1,5 +1,3 @@
-Here's an overview of my open source projects.
-
 [Rust]
 ------
 <a href="https://www.rust-lang.org/"><img src="img/rust-logo-blk.svg" alt="Rust" height="32"></a>
