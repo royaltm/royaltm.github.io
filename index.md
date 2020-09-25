@@ -1,8 +1,8 @@
 [Rust]
 ------
 <a href="https://www.rust-lang.org/"><img src="img/rust-logo-blk.svg" alt="Rust" height="32"></a>
-
 * [z80emu](https://github.com/royaltm/rust-z80emu) - a minimalistic [Z80 CPU] emulation library in Rust.
+* [SPECTRUSTY](https://github.com/royaltm/spectrusty) - a library for building highly customized ZX Spectrum emulators.
 * [delharc](https://github.com/royaltm/rust-delharc) - a Rust library for parsing and decoding [LHA/LZH](https://en.wikipedia.org/wiki/LHA_(file_format)) archives.
 * [ym-file-parser](https://github.com/royaltm/rust-ym-file-parser) - a Rust library for parsing the [AY/YM chiptune](/rust-ym-file-parser) format files.
 
@@ -13,6 +13,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="img/Unofficial_JavaScript_logo.svg" alt="JavaScript" height="32"></a>
 <a href="https://www.typescriptlang.org/"><img src="img/typescriptlang-icon.svg" alt="JavaScript" height="32"></a>
 
+* [web-zxspectrum](https://github.com/royaltm/spectrusty/tree/master/examples/web-zxspectrum) - a WebAssembly [example emulator](https://royaltm.github.io/spectrusty/web-zxspectrum/) built with [SPECTRUSTY](https://royaltm.github.io/spectrusty)
 * [fractx-wasm-demo](https://github.com/royaltm/rust-fractx-wasm-demo) - a [Mandelbrot](https://en.wikipedia.org/wiki/Mandelbrot_set) set WebAssembly [demo](https://yeondir.com/fractx-demo/) in Rust.
 * [plasma](https://github.com/royaltm/rust-plasma) - an eye-candy pixel plasma randomized generator - for the desktop and the web.
 
