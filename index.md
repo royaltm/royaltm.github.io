@@ -46,7 +46,7 @@
 ------
 <a href="https://www.gnu.org/software/bash/"><img src="img/Gnu-bash-logo.svg" alt="JavaScript" height="32"></a>
 
-* [gitsnap](https://github.com/royaltm/gitsnap) - scripts to create git repositories backed up by Tarsnap.
+* [gitsnap](https://github.com/royaltm/gitsnap) - scripts to create git repositories backed up by [Tarsnap](https://www.tarsnap.com/).
 * [certool](https://github.com/royaltm/certool) - a pill for the [OpenSSL](https://www.openssl.org/) certification pain-in-the-back.
 
 [Amiga]
