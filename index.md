@@ -14,7 +14,7 @@
 <a href="https://www.typescriptlang.org/"><img src="img/typescriptlang-icon.svg" alt="JavaScript" height="32"></a>
 
 * [web-zxspectrum](https://github.com/royaltm/spectrusty/tree/master/examples/web-zxspectrum) - a WebAssembly [example emulator](/spectrusty/web-zxspectrum/) built with [SPECTRUSTY](/spectrusty)
-* [fractx-wasm-demo](https://github.com/royaltm/rust-fractx-wasm-demo) - a [Mandelbrot](https://en.wikipedia.org/wiki/Mandelbrot_set) set WebAssembly [demo](https://yeondir.com/fractx-demo/) in Rust.
+* [fractx-wasm-demo](https://github.com/royaltm/rust-fractx-wasm-demo) - a [Mandelbrot](https://en.wikipedia.org/wiki/Mandelbrot_set) set WebAssembly [demo](/rust-fractx-wasm-demo/) in Rust.
 * [plasma](https://github.com/royaltm/rust-plasma) - an eye-candy pixel plasma randomized generator - for the desktop and the web.
 
 [Node.js]
