@@ -5,6 +5,7 @@
 * [SPECTRUSTY](https://github.com/royaltm/spectrusty) - a library for building highly customized [ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum) emulators.
 * [delharc](https://github.com/royaltm/rust-delharc) - a Rust library for parsing and decoding [LHA/LZH](https://en.wikipedia.org/wiki/LHA_(file_format)) archives.
 * [ym-file-parser](https://github.com/royaltm/rust-ym-file-parser) - a Rust library for parsing the [AY/YM chiptune](/rust-ym-file-parser) format files.
+* [royal-image-viewer](https://github.com/royaltm/rust-royal-image-viewer) - A simple image viewer that can be controlled via UDP messages.
 
 [Rust] / [WebAssembly]
 ----------------------
